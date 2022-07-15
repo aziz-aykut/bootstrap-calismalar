@@ -1,0 +1,27 @@
+
+
+body {
+  color: #5a5a5a;
+  /*background-image: url("img/k1.jpg"); */
+ background-color: #E9ECEF;
+}
+
+.h3
+{
+  color: aqua;
+  text-align: center;
+  padding-top: 30%;
+}
+
+.pill{
+  background-color: rgb(11, 159, 218); 
+  color: white; 
+  font-size: 14px;  
+}
+
+
+
+
+
+
+
